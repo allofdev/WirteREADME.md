@@ -58,11 +58,12 @@ Space Bar를 두 번 이상 눌러 띄어쓰기를 하면 위 문장에서 두 �
 ---
 
 ### 4. 이미지(Images)
-![이미지 alt명](url 링크) 
+1.![이미지 alt명](url 링크) 
+2.HTML방식
 ```
-![Github logo](/images/imageTest.jpg) 
+![Github logo](/WirteREADEME.md/imageTest.jpg) 
 ```
-![Github logo](/images/imageTest.jpg) 
+![Github logo](/WirteREADEME.md/imageTest.jpg) 
 
 ---
 
